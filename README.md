@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pororooo.github.io/rsschool-cv/cv
