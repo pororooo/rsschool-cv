@@ -1,4 +1,4 @@
-[Portfolio](https://pororooo.github.io/rsschool-cv/cv)
+[Portfolio](https://github.com/pororooo/rsschool-cv.git)
 # **Darya Kilyachenko**
 ## *Junior Frontend Developer*
 ## **About me**
